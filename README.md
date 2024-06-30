@@ -13,7 +13,8 @@
 </p>
 
 # 💫 About Me:
-- 💻 I'm a Full-Stack developer.
+- 👩🏿 I'm Sinethemba Zulu.
+- 💻 A Full-Stack developer.
 - 🌱 I’m currently learning Data Science and AI.
 - 👯 I’m looking to collaborate on web-based projects.
 - 💬 Ask me about Reactjs, Python, SQL, TailwindCss, HTML, CSS, and Javascript.
