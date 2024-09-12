@@ -10,9 +10,9 @@
 # 💫 About Me:
 - 👩🏿 I'm Sinethemba Zulu.
 - 💻 A Full-Stack developer.
-- 🌱 I’m currently learning Data Science and AI.
+- 🌱 also into Data Science and AI.
 - 👯 I’m looking to collaborate on web-based projects.
-- 💬 Ask me about Reactjs, Python, SQL, TailwindCss, HTML, CSS, and Javascript.
+- 💬 Ask me about Typelevel-Stack, Reactjs, Python, SQL, TailwindCss, HTML, CSS, Databases, and Javascript.
 - 📫 How to reach me: gracepinkie90@gmail.com
   
 
